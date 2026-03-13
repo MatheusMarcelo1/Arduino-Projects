@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório **Arduino Projects Hub**! Aqui você encontrará projetos criativos de Arduino desenvolvidos e testados por mim e meus amigos.
 
+<p align="center">
+  <img src="img.png" alt="logo" width="150" style="max-width:100%;height:auto;" />
+</p>
+
 ## Sobre o repositório
 
 Este repositório contém projetos colaborativos que incluem:
